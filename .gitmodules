@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ed50"]
+	path = ed50
+	url = https://github.com/cran/ed50
+	shallow = true
+	registered = true
+[submodule "modTurPoint"]
+	path = modTurPoint
+	url = https://github.com/cran/modTurPoint
+	shallow = true
+	registered = true
